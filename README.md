@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-**AliValiyev/AliValiyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=AliValiyev&show_icons=true&locale=en" alt="Ali-Valiyev" /></p>
+I am 4th year Mathematic student at METU in Turkey. 
+
+As a senior mathematics student, I am excited to bring my strong analytical and problem-solving skills to the field of Machine Learning. With a solid foundation in mathematics, especially in combinatorics, and programming experience in Python, SQL, and C#, I am eager to tackle challenges in the field of generative AI and computational neuroscience. 
 
 ### Programming Skills
 
