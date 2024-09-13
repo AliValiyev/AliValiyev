@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am 4th year Bachelor's student at METU in Turkey. 
+I am Data Science Master's student at Ozyegin University in Turkey. 
 
-As a senior mathematics student, I am excited to bring my strong analytical and problem-solving skills to the field of Machine Learning. With a solid foundation in mathematics, especially in combinatorics, and programming experience in Python, SQL, and C#, I am eager to tackle challenges in the field of generative AI and computational neuroscience. 
+As a mathematics graduate, I am excited to bring my strong analytical and problem-solving skills to the field of Machine Learning. 
 <a href="#">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=AliValiyev&show_icons=true&line_height=40&hide_border=true&icon_color=586069&title_color=a0a9af">
 </a>
